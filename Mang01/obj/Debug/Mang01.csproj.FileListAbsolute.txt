@@ -1,0 +1,7 @@
+D:\BaitapMang1\bai1\Mang01\Mang01\bin\Debug\Mang01.exe.config
+D:\BaitapMang1\bai1\Mang01\Mang01\bin\Debug\Mang01.exe
+D:\BaitapMang1\bai1\Mang01\Mang01\bin\Debug\Mang01.pdb
+D:\BaitapMang1\bai1\Mang01\Mang01\obj\Debug\Mang01.csprojResolveAssemblyReference.cache
+D:\BaitapMang1\bai1\Mang01\Mang01\obj\Debug\Mang01.csproj.CoreCompileInputs.cache
+D:\BaitapMang1\bai1\Mang01\Mang01\obj\Debug\Mang01.exe
+D:\BaitapMang1\bai1\Mang01\Mang01\obj\Debug\Mang01.pdb
